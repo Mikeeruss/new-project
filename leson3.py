@@ -9,4 +9,4 @@ while number != 0:
         break
     number //= 10
     print('Текущая сумма цифр', summa)
-print('\nИтоговая сумма цифр: ', summa)
+print('\nИтоговая сумма цифррр: ', summa)
